@@ -1,0 +1,685 @@
+Q-ACSM 140-146
+
+Chacaltaya station, Bolivia
+The time in this logbook is writen in Local time
+
+Instrument was adjusted to UTC time!!
+
+
+19/02/2018
+
+The instrument was taken from the box. The stainless steel inlet was bent 45 degrees and the critical orifice was
+bent too. So, the critical orifice was replaced by a 130 um.
+Pumps were started.
+
+
+
+
+20/02/2018
+
+Power break for 6 days.
+
+
+
+
+26/02/2018
+
+Pumps were started.
+
+
+
+
+27/02/2018
+
+DAQ was crashing every 10 min. So Phil, from ARI, updated the firaware remotely. Since then, DAQ has not crashed.
+
+There was a short between the Filament and the Vaporizer, clearly, the filament was switching off itself everytime
+the vaporizer was on.
+So, the instrument was vented and, indeed, the ion cage was touching the vaporizer. Openning a slide screw we pull the vaporizer down and made sure no wires were touching.
+
+Pumps were started.
+
+
+
+
+
+28/02/2018
+
+Flowrate calibration (critical orifice was in)
+New calibratio values:
+
+Y=2.2079 X - 0.58
+
+Room temperature: ~20C
+
+The critical orifice was cleaned. 
+Inlet pressure=1.27 Torr
+
+
+01/03/2018
+Lens alignment with AN, 300 nm particles, ~85 #/cm3
+OBS: The inlet + lens system looked visually miss-aligned, maybe because of the problem at the customs.
+New position: Horiz= 8,43    Vertic=8,19
+
+
+Critical orifice was cleaned.
+
+17:47 - Start measurements with Magee dryer on and flow controller box at 2LPM (1.80 volts).
+
+Pressure: 
+
+Tuning: it improved the shoulder on the right side of n2.
+Vaporizer Set V=5.7V
+Heater Bias=89.60V
+Ions Ref=97
+Cathode=-70
+Focus=-10.5
+Field Axis=-15.0
+Extraction=-114
+
+SEM V=1675 V
+Resolution=65
+
+21:08 - replaced the flow controller box by the water CPC 3787. This model measures down to 5 nm, whilw the CPC 3772 (Tropos) measures down to 10 nm.
+AB=230 nAmp
+
+22:35 - changed the resolution to 50.
+23:08 - the CPC was plugged straight to the main inlet, bypassing the dryer and the ACSM. No change. The water CPC continues measuring 50% less particles.
+The ACSM was stopped.
+23:15 - stop CPC measurements.
+23:19 - start ACSM with dryer and flow controller box
+23:30 - m/z calibration, new offset=+0.0005 and slope=1.0025
+
+
+02/03/2018
+9:00 Mass calibration.
+The Calibration system was set up following the diagram from the Italian ACSM. The sillica dryer was replaced by the 
+USP one, using sillica that was dryed the day before, and the nebulizer as well, because the yellow one didn磘 have a tube to go into the solution.
+Since the water CPC was measuring very low concntrations compared to the Total butanol CPC, a butanol CPC was borrowed for the calibration, but the concentrations were still very low for the amount of NH4NO3 added to the solution. Therefore, the nebulizer was once again replaced by the yellow one borrowing the bottle tube from the USP nebulizer and the counts increased immediatly, so the problem might have been the low pressure from the USP nebulizer to the DMA.
+After that, the calibrations were performed starting from ~900 particles/cc down to zero (water), and the resulting IE amps/loading slope is 2.17e-10.
+
+14:15 Returned to ambient measurements.
+
+
+07/03/2018 21:39
+The SEMV was increased to 1725V.
+
+08/03/2018
+10:17 An HEPA filter was connented after the splitter for zero calibration.
+18:09 Zero measurements stopped. Restarted ambient measurements.
+Air pressure dropped to ~0.5 torr on 07/03/2018 around 21:00 UTC but not power cut was registered
+
+09/03/2018
+it seems that the critical orifice is dirty.
+
+12/03/2018
+14;22 stop measurements and close the valve to clean the criticl orifice, air pressure 0.88torr
+14;45 Critical orifice cleaned and air pressure goes to 1.273torr
+14;47 zero/filter test start
+19;15 filter/zero test end
+19;37 ambient measurements start with 0.970tor of air pressure
+
+14/03/2018 fher
+14;30 stop measurements to measure the Flow controller flowrate with gilibrator
+	for Vout=1.82V --> Qs=2.05lpm --> Qa=3.99lpm
+	for Vout=2.07V --> Qs=2.66lpm --> Qa=5.10lpm     where 创Qs创 is flowrate at standard conditions and 创Qa创 is florate at ambient conditions   
+
+15;38 PM2.5 Cyclone connected 
+15;50 critical orifice cleaned, current air pressure=1.270torr
+16;00 Ambient measurements started with the PM2.5 cyclone setup
+
+
+2018-03-21 fher (remote)
+9:30 system shutdown due to a programed power cut
+15:30 System start after the programed power cut. 
+From the begin to the end of the programed power cut a gasoline generator was working at the station.  
+
+2018-03-22 fher (remote)
+9:00 system shutdown due to a programed power cut
+16:30 System start after the programed power cut. 
+From the begin to the end of the programed power cut a gasoline generator was working at the station.  
+
+2018-03-23 Fher
+14:00 Control box on, then MD1on and  When the pressure was 0.09  torr the turbo pumps were turned on
+
+2018-03-24 fher
+Liine start the measurements but with wrong Voltages
+03:18 I have changed the Voltages to the values comming from calibrations.
+12:15 HB , SEM tuned /LH
+
+2018-03-26 fher, vale, liine
+IE calibration performed with 300nm AN. RF = 1.44e-10, RIE(NH4) = 5.74
+20:10 Critical orifice cleaned due to the air pressure was 0.56tor, after cleaning is 1.234tor.
+20:22 Ambient measrements start
+23:28 From 20:22 to 23:20 the number of set was wrong configurated. It was change to 1 sample 1 filter and 28 number of set.
+
+2018-03-27 /LH
+Critical orifice cleaned, pressure dropped again overnight below 1 torr. After cleaning:
+p(inlet) = 1.067 torr (inlet open)
+flow = 1.776 cc/s (inlet open)
+
+T(oven) = 636 C (5.7V)
+SEM = 1771 v (N2 height 1.13e-07) increased after  orifice cleaning, now too high.
+
+-> SEM tuning -> SEM 1759 V (N2 height 9.67e-08)
+
+PUMP stats (inlet open):
+P1: 650 Hz, 62 W
+P2: 1500 Hz, 5W
+P3: 1000 Hz, 5 W
+
+fil em: 1 mA
+
+m/z cal: 27.974/128.051
+
+17:31 strt ambient measurements having the inlet fully black conductive tubing (had some less
+appropriate tubing in the line)
+
+28.03.2018
+p(inlet) = 1.077 torr
+flow = 1.788 cc/s
+
+29.03.2018
+
+m/z cal 27.976/128.025
+SEM: 1764 V (N2 height 9.50e-08)
+T(oven) = 638C (5.7V)
+
+Pumps stats (inlet open):
+P1: 650 Hz, 64W
+P2: 1500 Hz, 5W
+P3: 1000 Hz, 4-7W (unstable reading)
+
+fil em: 1 mA
+
+p(inlet) = 1.065 torr
+flow = 1.761 cc/s
+
+14:11 measurement stopped for flow cal (without critical orifice!), 
+new variables (s = 2.3659, i = -0.58362) saved in DAQ
+
+Critical orifice seems to be clogged again.. Need to open and clean.
+
+Sulfate calibration performed, RIE(SO4) = 0.83
+
+17:41 UTC back to ambient measurement.
+
+2018-04-02 Fher, Vale, Liine 
+13:55 Italian ACSM off, therefore the flow was increased to 5 l/min to satisfy the required flow for the PM2.5 cyclone
+14:00 Zero test start
+16:19 stop zero test
+16:20 start ambient measurements
+16:34 ACSM hard shut down. Power board it was connected to was shorted.
+16:38 Power re-established. ACSM pumping down. Cant figure out how to use the control software.
+
+2018-04-09 Liine
+17:38 measurement stopped for IE cal (using right diam particles), critical orifice cleaned.
+19:23 back to ambient measurement and new RF(NO3), RIE(NH4) and RIE(SO4) saved in DAQ.
+RF(nO3) = 9.195e-11
+RIE(NH4) = 5.07
+RIE(SO4) = 0.67
+
+2018-04-16 Diego, Liine
+11:40 critical orifice cleaned. Likely a lot of dust in the air that got it pretty clogged.
+11:48 measurement back on.
+
+2018-04-17 Liine
+14:20 disconnecting the dryer to see if NO3 and org go up. We are thinking we might lose some
+semi-volatile stuff in the dryer. I disconnected the dryer power cable too.
+14:35 critical orifice cleaned. back to ambient measurement.
+
+2018-04-19 Liine
+
+15:00 critical orifice cleaned, inlet p went up to 1.2 torr, flow 2.25 ccs. PM2.5 cyclone flow checked.
+It is ok.
+
+16:25 changed vaporizer voltage back to a lower value. I am worried of the refractory stuff (neg spikes
+in diff spectra).
+
+
+
+2018-04-23, 14:24 - Samara
+
+Inlet line was unplugged at 14:41
+Inlet pressure was 1.05 torr
+
+Because the Tee part is not at CHC, we磍l start with the organic standards.
+
+m/z calibration:
+	old offset: 0.0005
+	old slope: 1.0025
+	old center m/z 28: 27.977
+	old center m/z 128: 128.042
+
+	new offset: 0
+	new slope: 1.00275
+	new center m/z 28: 27.992
+	new center m/z 128: 128.013
+
+15:58 SEMV value increased to 1900 (airbeam too low)
+
+15:59 Malonic acid start
+~150 #/cm3
+300 nm
+averaging time: 10 mins, 200 ms/amu -> single scan mode
+SEm detector was increased to 1900V
+Vaporizer 5.5V
+
+start time 16:56 - end time 17:28
+~55#/cm3
+
+The critical orifice was cleaned and the inlet pressure was back to 1.22 torr
+
+
+18:26 Xylitol standard starts
+300 nm
+~ 90#/cm3  
+inlet pressure 1.20 torr
+19:09 xylitol standard ends. At the end the particles went up to 150 #/cm3
+
+19:12 - start sampling ambient air using the Magee Dryer.
+
+
+24-04-2018 14:18
+The calibrations for AN, previous to this were all wrong because the size was different due to altitude, so the size used during calibration was wrong,
+SEMV was 1830 V by mistake. It was changed back to 1900V and saved again.
+Measurements were stopped.
+
+The critical orifice was replaced by  120um, however, the inlet pressure is not achieving the 1.2 torr anymore, only 1.07 torr.
+
+AN Calibratiopn using the Italian system for calibration and a CPC 3772                                            
+300 nm
+10 LPM
+
+Calibration values:
+NO3 RF=1.80e-10
+SO4 RFapp=8.86e-11
+NO4 RIE=5.45
+So4 RIE=1.10
+Inlet P=1.058
+Ref N2=1.31e-7
+Ref O2=3.15e-8
+Rwf Nap=2.01e-11
+Ref T= 38.24
+
+AN is atomized inside the system under same conditions, 300 nm, 200mz/amu, 10 min run, (1 closed+1open)x10
+~650 #/cm3
+Start at 16:32
+at 17:04 the concentration was decreased to ~290#/cm3
+at 17:40 the concentration was descreased to 0-1#/cm3
+ends at 18:05
+
+AS is atomized inside the system under same conditions, 300 nm, 200mz/amu, 10 min run, (1 closed+1open)x10
+~460 #/cm3
+Start at 19:22 - 19:55
+
+Start filter measurements, however, the filter was in the opposite direction. Do not use these data.
+
+25-04-2018
+13:42 new filter/zero start
+17:37 Zero test stop and ambient measurements start.
+
+27-04-2018 fher
+From April 26 at 16:00 to April 27 at 14:00 power outgae at the station
+18:10 Samara start the system remotly.
+
+03-05-2018 fher
+15;41 air beam pressure = 0.945torr a bit clogged, take it out for cleaning
+15;42 stop ambient measurements.
+15;58 valve closed air beam pressure = 0.028torr
+16:00 critical orifice cleaned now air beam pressure = 1.046torr --> ok and start ambient measurements 
+19;45 power cut ambient measurements stop and 
+
+04-05-2018
+Power outage from May at 16:00BT to May 4 at 13:10BT  (fher)
+18:10 the power was back and the system was started. Measurements on (Samara)
+
+05-05-2018 Liine
+Another sulfate event
+AB set again to 1.7e-07 instead of 1e-07 (suggested ref), not sure why running SEM with so high volts is preferred??
+
+10-05-2018 Valeria
+11:15 Critical orifice clogged -> cleaned
+11.40 Back to ambient measurements. Inlet pressure: 1.051 Torr
+
+22-05-2018 Liine
+Interlock had kicked on. Fil and SEM off, inlet closed. P was normal. Maybe pump overheating (error2). Measurement restarted.
+
+
+2018-05-31 Fher
+15:19 air beam pressure 1.016tott
+15:20 stop measurements for changing the critical orifice
+15:34 130um critical orifice setup, air beam pressure 1.135torr. Ambient measurements start 
+
+
+
+2018-06-?? Samara
+Power break
+
+2018-06-29 18:13
+Instrument starts, SEMV=1950V
+
+
+2018-07-12 Valeria
+14:45 Critical orifice cleand. Inlt P: 1.152 Torr
+15:18 Back to ambient measurements
+15:20 Inlet pressure droped to 0.97. 
+      Cleaning again. Inlet P: 1.149 Torr
+15:40 Back to ambient measurements
+17:20 Inlet pressure droped to 1.06. 
+      Cleaning again. Changed to 120 um orifice. Inlet P: 1.043 Torr
+18:00 Back to 130 um orifice. Inlet P: 1.155
+17:42 Back to ambient measurements
+
+
+2018-07-26
+DAQ crashed.
+Peak shape was funny. New tuning and resolution adjust:
+Resolution was changed from 65 to 35
+
+SetV=6
+Bias V=104
+Ion Ref=110
+Cathode=-70
+Focus/-10.5
+Field=-15
+Extraction=-114
+
+SEMV= 1980V
+
+A new AN cal is needed asap!
+
+2018-08-02 Valeria
+15:00 approx. false alarm of power cut, therefore measurements were stopped.Power cut re scheduled for Tuesday 07-08-2018
+17:20 critical orifice clean. Inlet P 1.144
+15:50 orifice clogged again. Claned. Inlet P : 1.144 torr
+19:53 Clogged and cleaned... Inlet P: 1.152 torr
+
+
+2018-08-09 Valeria
+The critical orifice and all the line were cleaned and the ACSM is back to work.
+
+2018-08-13 Isabel
+sulfate event seen in both the ACSM and SO2 (>100 ppb) analyzer.
+
+2018-08-16 Laura
+Critical orifice got clogged on 14-08-2018 early morning
+Orifice clened. Inlet P: 1.150
+
+
+2018-08-23 Isabel
+Power outage from 18-08-18 14h47 until 21-08-21 17h35. 
+ACSM PC remained off. ACSM turned off as instructed by Marcos Andrade
+
+ 
+2018-08-30 17:50 Samara
+
+SEMV was reduced to 1880V because it was too high AB.
+Resolution was decreased to 45.
+
+2018-09-09 Samara
+Servo is broken
+
+Increased the SEM V to 1920V
+
+2018-09-26 Valeria, Junior
+17:43 Servo successfully replaced. Inlet valve fixed. Critical orifice cleaned. Inlet P: 1.168 torr
+It looks lke the problem was related to a blown fuse on the board. It was replaced to 1.5A.
+M/z cal adjust, new slope=1.0053 and offset=0
+
+2018-10-08 Laura,Fer
+Air pressure is 1.156 torr --> ok
+mass data is cakculating in a good way (sample - zero)
+Instrumento funcionando regularmente.
+La bomba principal fue apagada entre las 16h07 y 19h15 UTC. 
+
+
+2018-10=15 fher, samarautc
+power outage from october 11 around 18UTC to october 12 around 18
+When power was back ACSM started but PC did not (I do not know why)
+On October 15 around 14UTC PC was turned on and Samara restarted the adquisition software.
+Pressure line = 1.168 torr --> ok
+Around 18UTC I have change: Configuration/digital line configuratio/filter Valve to direct drive  
+
+2018-10-16 Fher (remote)
+ACSM working fine, so much sulfate these days
+
+2018-10-18 Fher 
+14:30UTC start zero test
+18:55 zero test ended
+
+the dryer is working fine!!!!! the issue was related to the power of the vaccum pump. The one that Valeria setup is not strong enough to generated an adequate vaccump pressure in the dryer.
+So, I have changed the pump to a stronger one then I adjusted the vaccum meter to -0.25bar which produce a counterflow of 4.9 lpm which is in a good compromise between sample flow-counterflow-vaccum pressure.
+air pressure = 1.171 torr --> great 
+ACSM is working fine 
+
+2018-10-23 Fher (remote)
+Power outage from 19 to 20UTC, after that system restarted and start measurements,
+
+2018-10-25 fher
+18:14 ACSM ok 
+
+2018-10-29 fher, laura
+14:15 ACSM ok
+air pressure = 1.164 torr 
+
+2018-11-05 Fher (remote)
+ACSM is working fine and saving data
+air beam pressure = 1,167 torr
+
+2018-11-08 Manuel, Isabel
+16:19 Instrument is working fine and saving data correctly. 
+air pressure=1,169 torr --> ok (fher)
+
+2018-11=12 fher
+power outage on nov 10 from 17 to 21UTC ==> no data until today
+14:30 Prisma and PC restarted due to a lack of comunication
+Ambient measurements start at 14:53
+SEM voltage chango from 2020 to 1970
+System is working and saving data
+
+2018-11-14 fher (remote)
+13:50 System fine and saving data
+
+2018-11-15 fher (remote)
+13:30 System fine and saving data
+air beam pressure = 1,166torr --> good
+
+2018-11-16 Fher (remote)
+UPS failed on Nov 15 and measurements stoped,
+at 21:10 Measurements restarted,
+Air beam pressure = 1,158torr --> ok
+2018-12-27 Laura, Marcelo
+Instrument is working ok.
+
+2018-11-19 fher laura
+18:53 System fine
+air pressure 1.163torr
+
+2018-11-21 Fher (remote)
+15:43 air pressure = 1,161torr -->ok
+15:41 Ambient measurements start
+15:34 System restarted after the power outage
+Power outage on nov 20 from 3 to 21UTC
+
+19:24 after few crashes (DAQ) it is ok. The AB in much higher since Nov 11th. So,
+the SEMV was decreased to 1900V.
+
+2018-11-26 fher, laura
+DAQ problem from Nov 24 (afternoon) to nov 26 (morining)
+14:30 PC and prisma restarted
+14:50 ambient measurements start
+16:48 air preassure = 1.174 torr
+
+
+2018-11-29 Manuel
+14:00 instrument is working fine and saving data correctly.
+Inlet pressure 1.174 torr
+
+2018-12-17 Manuel
+16:59 instrument is working fine and saving data correctly.
+Inlet pressure 1.175 torr
+
+2018-12-24 Isabel
+Instrument seems fine.1.175 torr
+
+2019-01-10 Manuel 
+15:55 Instrument is working fine and saving data. Inlet pressure 1.171 torr
+
+2019-01-14 Manuel 
+15:37 Instrument is working fine and saving data. Inlet pressure 1.176 torr
+
+2019-01-24 fher
+from De 1 to today there is complete data, critical orifice clean enough (1;172torr) and sample RH lower than 20% 
+
+2019-01-28 Samara, fher
+There was a power break on the 25th. The instruments was restarted.
+SEM V was decreased to 1900V.
+
+
+2019-02-01 fher (remote)
+14:33 ACSM working fine and saving data. Air beam pressure ok (1.171 torr)
+
+2019-02-04 Laura
+14:37 Instrument is working ok. Inlet pressure -> 1.172 torr.
+
+2019-02-07 fher
+17:02 ACSM working fine and saving data. Air beam pressure ok (1.170 torr)
+
+2019-02-11 Manuel, Isabel
+15:26 instrument is working fine and saving data correctly.
+Inlet pressure 1.170 torr
+
+2019-02-14 fher, manu
+System restarted today at 15:00
+Power outage on feb 13 from 9 to 18 UTC.
+
+2019-02-18 fher (remote)
+20:45 Although it was changed from Gear to Direct drive, the measurements are still negative.
+
+2019-02-25 fher
+18:00 ambient measurements start and now w have good data.
+system shutdown at 17:30
+18:05 system started and ambient measurements. 
+It seems that no sample air was measure from last power outage because in scan parameters scan number was set to zero.
+This time scan and filter were setup to 1 each other.
+
+2019-02-28 fher
+ACSM working fine
+air beam pressure = 1.171 torr --> fine
+
+2019-03-06 fher (remote)
+System working fine
+
+2019-03-07 Fher (remote)
+13:07 System working fine, saving data and air beam pressure ok (1.167torr)
+
+2019-03-11 fher
+14:20 ACSM working fine and saving data
+air beam pressure = 1.168 torr --> fine
+
+2019-03-14 fher
+power outage from march 12 18UTC to March 13 18UTC
+Laptop did not start when the power back
+14:22 ACSM starts, air beam pressure closed valve = 0.041torr
+14:30 ambient measurements start
+14:32 ACSM crashed --> prisma restarted
+Laptop time 5 minutes delay from actual time --> corrected at 14:35 (old time)
+14:41 ACSM starts
+17:59 ACSM working well
+
+2019-03-18 fher (remote)
+System working fine
+
+2019-03-21 fher (remote)
+13:06 System working fine
+
+2019-03-25 fher
+17:11 System working fine (1.162torr air pressure), however AB is decreasing so fast (according to Samara)
+
+2019-03-28 fher
+14:49 ACSM working fine and saving data
+air beam pressure = 1.172 torr --> fine
+
+2019-04-08 fher
+18:09 ACSM working fine and saving data
+air beam pressure = 1.162 torr --> fine
+
+2019-04-11 fher
+on april 10 at 17:36 something triggred the internal protection, could not be a porwer outage so could be an internal issue.
+14:40 waring window close and filament, detector turned on and off --> it works and the system start to measure again. Let see next days if the internal protection is activated.
+air beam pressure 1.167 torr --> ok
+
+2019-04-22 fher
+14:33 System ok and saving data
+air beam pressure 1.160 torr --> ok 
+
+2019-05-09 fher
+17:33 System ok and saving data
+air beam pressure 1.164 torr --> ok
+
+2019-05-19 fher
+13:37 It seems that the Wifi antenna is gone --> so an external Wifi antenna is connected and now there is internet
+13:40 system working fine but air beam pressure is low 1.142 torr 
+
+2019-05-24 samara
+18:52 The SEMV was increased to 1930V.
+
+2019-05-27 fher
+14:40 ACSM conflict with prisma IP from May 24 --> Pc restarted and prisma disconnected and connecte again (after 2 minutes)
+14:50 Pc and ACSM software restarted
+15:00 ambient measurements 
+
+2019-05-30 fher
+16:46 air beam pressure = 0.496 torr --> to low
+
+2019-06-03 fher
+14:53 air beam pressure = 0.425 torr --> to low
+14:55 stop ambient measurements
+15:30 critical orifice cleaned, air beam pressure = 1.155torr --> great
+15:35 back to amient measurements
+utc17:31 systm working fine
+
+2019-06-10 fher
+17:30 System ok and saving data
+air beam pressure 1.149 torr --> ok
+
+2019-06-13 Laura,Fer
+18:22 Instrument is working ok.
+inlet pressure: 1.157 , which is ok.
+
+2019-06-24 fher
+From June 20 at 11:13 to date there was a filament error and no data were took 
+the error was solved at 15:30 and from that ambient measurements is taking
+air been pressure 1.143torr --> ok 
+
+2019-06-27 fher
+19:16 ACSM working fine
+inlet pressure: 1.144 --> ok.
+
+2019-07-01 fher
+19:34 ACSM working fine
+inlet pressure: 1.159 --> ok.
+
+
+2019-07-04 Isabel
+14:33 instrument working fine. TV relaunched.
+
+2019-07-08 fher
+14:39 from July 5 at 17UTC main pump crashed, however ACSM measuremenents seems to be fine. ACSM is working fine 
+inlet pressure: 1.154 --> ok.
+
+2019-07-11 fher
+17:40 ACSM working fine
+air beam pressure: 1.149 --> ok.
+
+2019-07-19 Isabel, Laura
+Erupcion volcan Ubinas 7 utc
+
+2019/07/23 Laura, Isa
+Instrument working ok.
+
+2019-07-29 fher
+15:01 ACSM working fine
+air beam pressure: 1.154 --> ok.
+
