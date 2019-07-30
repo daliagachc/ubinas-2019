@@ -2,12 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2b4623d0-bcce-4e97-8d57-6566855c8d35" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ubinas_2019/util.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ubinas-2019.iml" beforeDir="false" afterPath="$PROJECT_DIR$/ubinas-2019.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ubinas_2019/nbs/.ipynb_checkpoints/Untitled-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/ubinas_2019/nbs/.ipynb_checkpoints/Untitled-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ubinas_2019/nbs/Untitled.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/ubinas_2019/nbs/Untitled.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ubinas_2019/nbs/Untitled.py" beforeDir="false" afterPath="$PROJECT_DIR$/ubinas_2019/nbs/Untitled.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ubinas_2019/util.py" beforeDir="false" afterPath="$PROJECT_DIR$/ubinas_2019/util.py" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -27,7 +26,7 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="221">
+              <first_editor relative-caret-position="378">
                 <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
               </first_editor>
               <second_editor />
@@ -39,10 +38,10 @@
         <entry file="file://$PROJECT_DIR$/ubinas_2019/util.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="316">
-              <caret line="32" column="36" selection-start-line="32" selection-start-column="36" selection-end-line="32" selection-end-column="36" />
+              <caret line="28" column="37" selection-start-line="28" selection-start-column="37" selection-end-line="28" selection-end-column="37" />
               <folding>
                 <element signature="e#276#324#0" expanded="true" />
-                <element signature="e#950#1086#0" expanded="true" />
+                <element signature="e#1137#1273#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -51,8 +50,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ubinas_2019/data/in-situ/acsm/LogBook_ACSM_CHC.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="500">
-              <caret line="685" lean-forward="true" selection-start-line="685" selection-end-line="685" />
+            <state relative-caret-position="-17">
+              <caret line="685" selection-start-line="685" selection-end-line="685" />
             </state>
           </provider>
         </entry>
@@ -60,7 +59,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="13">
+            <state>
               <caret line="1" selection-start-line="1" selection-end-line="1" />
             </state>
           </provider>
@@ -97,9 +96,9 @@
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="211" />
-    <option name="y" value="1363" />
-    <option name="width" value="1024" />
-    <option name="height" value="617" />
+    <option name="y" value="1103" />
+    <option name="width" value="1440" />
+    <option name="height" value="877" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -122,7 +121,7 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.postfix.templates" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -195,12 +194,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1564431589895</updated>
-      <workItem from="1564431591347" duration="6687000" />
+      <workItem from="1564431591347" duration="11823000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6687000" />
+    <option name="totallyTimeSpent" value="11823000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="211" y="1103" width="1440" height="877" extended-state="6" />
@@ -248,7 +247,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="13">
+        <state>
           <caret line="1" selection-start-line="1" selection-end-line="1" />
         </state>
       </provider>
@@ -259,7 +258,7 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="221">
+          <first_editor relative-caret-position="378">
             <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
           </first_editor>
           <second_editor />
@@ -268,18 +267,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ubinas_2019/data/in-situ/acsm/LogBook_ACSM_CHC.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="500">
-          <caret line="685" lean-forward="true" selection-start-line="685" selection-end-line="685" />
+        <state relative-caret-position="-17">
+          <caret line="685" selection-start-line="685" selection-end-line="685" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ubinas_2019/util.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="316">
-          <caret line="32" column="36" selection-start-line="32" selection-start-column="36" selection-end-line="32" selection-end-column="36" />
+          <caret line="28" column="37" selection-start-line="28" selection-start-column="37" selection-end-line="28" selection-end-column="37" />
           <folding>
             <element signature="e#276#324#0" expanded="true" />
-            <element signature="e#950#1086#0" expanded="true" />
+            <element signature="e#1137#1273#0" expanded="true" />
           </folding>
         </state>
       </provider>
