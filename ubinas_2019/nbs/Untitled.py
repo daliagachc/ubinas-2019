@@ -44,7 +44,9 @@ ds5 = pd.merge(ds2[C_SO2],ds4[C_SO4],left_index=True,right_index=True)
 
 # %%
 fig,ax = plt.subplots()
+# ds5 = ds5['2019-07-19':'2019-07-20']
 ds5.plot(figsize=(15,7),style='o',mfc='none',ax=ax)
+
 # ax.xaxis.set_major_locator(mdates.WeekdayLocator(byweekday=0,interval=1))
 # ax.xaxis.set_minor_locator(mdates.DayLocator(interval=1))
 # ax.figure.autofmt_xdate()
@@ -52,6 +54,19 @@ ax.grid(True,'major',alpha=1)
 ax.grid(True,'minor',alpha=.2)
 ax.set_ylim(.1,100)
 ax.set_yscale('log')
+
+# %%
+fig,ax = plt.subplots()
+ds5 = ds5['2019-07-19':'2019-07-20']
+ds5.plot(figsize=(15,7),style='o',mfc='none',ax=ax)
+
+# ax.xaxis.set_major_locator(mdates.WeekdayLocator(byweekday=0,interval=1))
+# ax.xaxis.set_minor_locator(mdates.DayLocator(interval=1))
+# ax.figure.autofmt_xdate()
+ax.grid(True,'major',alpha=1)
+ax.grid(True,'minor',alpha=.2)
+ax.set_ylim(.1,20)
+# ax.set_yscale('log')
 
 # %%
 fig,ax = plt.subplots()

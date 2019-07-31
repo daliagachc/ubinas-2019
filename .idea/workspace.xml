@@ -2,11 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2b4623d0-bcce-4e97-8d57-6566855c8d35" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ubinas_2019/nbs/.ipynb_checkpoints/Untitled-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/ubinas_2019/nbs/.ipynb_checkpoints/Untitled-checkpoint.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ubinas_2019/nbs/Untitled.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/ubinas_2019/nbs/Untitled.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ubinas_2019/nbs/Untitled.py" beforeDir="false" afterPath="$PROJECT_DIR$/ubinas_2019/nbs/Untitled.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ubinas_2019/util.py" beforeDir="false" afterPath="$PROJECT_DIR$/ubinas_2019/util.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ubinas_2019/road-map.mmd" beforeDir="false" afterPath="$PROJECT_DIR$/ubinas_2019/road-map.mmd" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,8 +16,8 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="false">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/ubinas_2019/road-map.mmd">
           <provider selected="true" editor-type-id="com.igormaznitsa.ideamindmap.editor.MindMapDocumentEditor" />
         </entry>
@@ -26,7 +26,7 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="378">
+              <first_editor relative-caret-position="187">
                 <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
               </first_editor>
               <second_editor />
@@ -34,15 +34,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ubinas_2019/util.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="316">
+            <state relative-caret-position="289">
               <caret line="28" column="37" selection-start-line="28" selection-start-column="37" selection-end-line="28" selection-end-column="37" />
-              <folding>
-                <element signature="e#276#324#0" expanded="true" />
-                <element signature="e#1137#1273#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -50,7 +46,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ubinas_2019/data/in-situ/acsm/LogBook_ACSM_CHC.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-17">
+            <state relative-caret-position="11645">
               <caret line="685" selection-start-line="685" selection-end-line="685" />
             </state>
           </provider>
@@ -59,7 +55,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
+            <state relative-caret-position="17">
               <caret line="1" selection-start-line="1" selection-end-line="1" />
             </state>
           </provider>
@@ -87,18 +83,17 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/ubinas_2019.py" />
-        <option value="$PROJECT_DIR$/ubinas_2019/road-map.mmd" />
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/ubinas_2019/util.py" />
+        <option value="$PROJECT_DIR$/ubinas_2019/road-map.mmd" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="211" />
-    <option name="y" value="1103" />
-    <option name="width" value="1440" />
-    <option name="height" value="877" />
+    <option name="y" value="23" />
+    <option name="width" value="1920" />
+    <option name="height" value="1057" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -109,9 +104,77 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="ProjectPane" />
-      <pane id="PackagesPane" />
       <pane id="NBKnowledgePane" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="ubinas-2019" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ubinas-2019" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ubinas-2019" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ubinas-2019" type="462c0819:PsiDirectoryNode" />
+              <item name="ubinas_2019" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ubinas-2019" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ubinas-2019" type="462c0819:PsiDirectoryNode" />
+              <item name="ubinas_2019" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ubinas-2019" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ubinas-2019" type="462c0819:PsiDirectoryNode" />
+              <item name="ubinas_2019" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+              <item name="in-situ" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ubinas-2019" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ubinas-2019" type="462c0819:PsiDirectoryNode" />
+              <item name="ubinas_2019" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+              <item name="in-situ" type="462c0819:PsiDirectoryNode" />
+              <item name="acsm" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ubinas-2019" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ubinas-2019" type="462c0819:PsiDirectoryNode" />
+              <item name="ubinas_2019" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+              <item name="in-situ" type="462c0819:PsiDirectoryNode" />
+              <item name="so2-monitor" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ubinas-2019" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ubinas-2019" type="462c0819:PsiDirectoryNode" />
+              <item name="ubinas_2019" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+              <item name="satellite" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ubinas-2019" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ubinas-2019" type="462c0819:PsiDirectoryNode" />
+              <item name="ubinas_2019" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+              <item name="satellite" type="462c0819:PsiDirectoryNode" />
+              <item name="so2-network" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ubinas-2019" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ubinas-2019" type="462c0819:PsiDirectoryNode" />
+              <item name="ubinas_2019" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+              <item name="satellite" type="462c0819:PsiDirectoryNode" />
+              <item name="so2-network" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -194,24 +257,24 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1564431589895</updated>
-      <workItem from="1564431591347" duration="11823000" />
+      <workItem from="1564431591347" duration="12542000" />
+      <workItem from="1564505716079" duration="8057000" />
+      <workItem from="1564583695923" duration="1218000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11823000" />
+    <option name="totallyTimeSpent" value="21817000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="211" y="1103" width="1440" height="877" extended-state="6" />
-    <editor active="true" />
+    <frame x="0" y="23" width="1920" height="1057" extended-state="6" />
     <layout>
       <window_info id="Designer" order="0" />
       <window_info id="UI Designer" order="1" />
       <window_info id="DB Browser" order="2" />
       <window_info id="Favorites" order="3" sideWeight="0.51867664" side_tool="true" weight="0.26797387" />
-      <window_info id="Structure" order="4" sideWeight="0.2624672" side_tool="true" visible="true" weight="0.14878398" />
-      <window_info active="true" content_ui="combo" id="Project" order="5" sideWeight="0.7375328" visible="true" weight="0.14878398" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info id="Structure" order="4" sideWeight="0.26539278" side_tool="true" visible="true" weight="0.11395101" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" sideWeight="0.7346072" visible="true" weight="0.11395101" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32870865" />
@@ -221,11 +284,10 @@
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32997987" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.18897638" />
+      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.15286624" />
       <window_info anchor="bottom" id="DB Execution Console" order="10" />
       <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
-      <window_info anchor="right" x="0" y="0" width="310" height="677" id="Documentation" sideWeight="0.5013123" side_tool="true" visible="true" weight="0.3297568" />
-      <window_info anchor="right" id="SciView" sideWeight="0.49868765" visible="true" weight="0.3297568" />
+      <window_info anchor="bottom" id="Docker" order="12" show_stripe_button="false" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -236,50 +298,46 @@
       <window_info anchor="right" id="Database" order="7" />
       <window_info anchor="right" id="LuaJ" order="8" />
       <window_info anchor="right" id="Data View" order="9" />
+      <window_info anchor="right" x="0" y="0" width="310" height="677" id="Documentation" order="10" sideWeight="0.50318474" side_tool="true" visible="true" weight="0.12300319" />
+      <window_info anchor="right" id="SciView" order="11" sideWeight="0.4968153" visible="true" weight="0.12300319" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/ubinas_2019.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/ubinas_2019.py" />
     <entry file="file://$PROJECT_DIR$/ubinas_2019/road-map.mmd">
       <provider selected="true" editor-type-id="com.igormaznitsa.ideamindmap.editor.MindMapDocumentEditor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="378">
+          <first_editor relative-caret-position="187">
             <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/ubinas_2019/util.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="28" column="37" selection-start-line="28" selection-start-column="37" selection-end-line="28" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/ubinas_2019/data/in-situ/acsm/LogBook_ACSM_CHC.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-17">
+        <state relative-caret-position="11645">
           <caret line="685" selection-start-line="685" selection-end-line="685" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ubinas_2019/util.py">
+    <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="316">
-          <caret line="28" column="37" selection-start-line="28" selection-start-column="37" selection-end-line="28" selection-end-column="37" />
-          <folding>
-            <element signature="e#276#324#0" expanded="true" />
-            <element signature="e#1137#1273#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="17">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
         </state>
       </provider>
     </entry>
